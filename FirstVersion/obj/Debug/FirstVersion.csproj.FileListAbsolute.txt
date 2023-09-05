@@ -1,0 +1,69 @@
+C:\Users\shikn\source\repos\FirstVersion\bin\Debug\FirstVersion.exe.config
+C:\Users\shikn\source\repos\FirstVersion\bin\Debug\FirstVersion.exe
+C:\Users\shikn\source\repos\FirstVersion\bin\Debug\FirstVersion.pdb
+C:\Users\shikn\source\repos\FirstVersion\obj\Debug\FirstVersion.csproj.AssemblyReference.cache
+C:\Users\shikn\source\repos\FirstVersion\obj\Debug\FirstVersion.csproj.SuggestedBindingRedirects.cache
+C:\Users\shikn\source\repos\FirstVersion\obj\Debug\FirstVersion.Properties.Resources.resources
+C:\Users\shikn\source\repos\FirstVersion\obj\Debug\FirstVersion.csproj.GenerateResource.cache
+C:\Users\shikn\source\repos\FirstVersion\obj\Debug\FirstVersion.csproj.CoreCompileInputs.cache
+C:\Users\shikn\source\repos\FirstVersion\obj\Debug\FirstVersion.exe
+C:\Users\shikn\source\repos\FirstVersion\obj\Debug\FirstVersion.pdb
+C:\Users\shikn\source\repos\FirstVersion\obj\Debug\FirstVersion.MainForm.resources
+C:\Users\shikn\source\repos\FirstVersion\obj\Debug\FirstVersion.InformationForm.resources
+H:\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\bin\Debug\FirstVersion.exe.config
+H:\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\bin\Debug\FirstVersion.exe
+H:\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\bin\Debug\FirstVersion.pdb
+H:\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\obj\Debug\FirstVersion.csprojAssemblyReference.cache
+H:\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\obj\Debug\FirstVersion.InformationForm.resources
+H:\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\obj\Debug\FirstVersion.MainForm.resources
+H:\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\obj\Debug\FirstVersion.Properties.Resources.resources
+H:\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\obj\Debug\FirstVersion.csproj.GenerateResource.cache
+H:\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\obj\Debug\FirstVersion.csproj.CoreCompileInputs.cache
+H:\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\obj\Debug\FirstVersion.exe
+H:\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\obj\Debug\FirstVersion.pdb
+C:\Users\shikn\Desktop\OLD\bin\Debug\FirstVersion.exe.config
+C:\Users\shikn\Desktop\OLD\bin\Debug\FirstVersion.exe
+C:\Users\shikn\Desktop\OLD\bin\Debug\FirstVersion.pdb
+C:\Users\shikn\Desktop\OLD\obj\Debug\FirstVersion.csproj.AssemblyReference.cache
+C:\Users\shikn\Desktop\OLD\obj\Debug\FirstVersion.csproj.SuggestedBindingRedirects.cache
+C:\Users\shikn\Desktop\OLD\obj\Debug\FirstVersion.InformationForm.resources
+C:\Users\shikn\Desktop\OLD\obj\Debug\FirstVersion.MainForm.resources
+C:\Users\shikn\Desktop\OLD\obj\Debug\FirstVersion.Properties.Resources.resources
+C:\Users\shikn\Desktop\OLD\obj\Debug\FirstVersion.csproj.GenerateResource.cache
+C:\Users\shikn\Desktop\OLD\obj\Debug\FirstVersion.csproj.CoreCompileInputs.cache
+C:\Users\shikn\Desktop\OLD\obj\Debug\FirstVersion.exe
+C:\Users\shikn\Desktop\OLD\obj\Debug\FirstVersion.pdb
+C:\Users\shikn\Desktop\FirstVersion\obj\Debug\FirstVersion.csproj.AssemblyReference.cache
+C:\Users\shikn\Desktop\FirstVersion\obj\Debug\FirstVersion.csproj.SuggestedBindingRedirects.cache
+C:\Users\shikn\Desktop\FirstVersion\obj\Debug\FirstVersion.InformationForm.resources
+C:\Users\shikn\Desktop\FirstVersion\obj\Debug\FirstVersion.MainForm.resources
+C:\Users\shikn\Desktop\FirstVersion\obj\Debug\FirstVersion.Properties.Resources.resources
+C:\Users\shikn\Desktop\FirstVersion\obj\Debug\FirstVersion.csproj.GenerateResource.cache
+C:\Users\shikn\Desktop\FirstVersion\obj\Debug\FirstVersion.csproj.CoreCompileInputs.cache
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\bin\Debug\FirstVersion.exe.config
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\bin\Debug\FirstVersion.exe
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\bin\Debug\FirstVersion.pdb
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\obj\Debug\FirstVersion.csprojAssemblyReference.cache
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\obj\Debug\FirstVersion.InformationForm.resources
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\obj\Debug\FirstVersion.MainForm.resources
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\obj\Debug\FirstVersion.Properties.Resources.resources
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\obj\Debug\FirstVersion.csproj.GenerateResource.cache
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\obj\Debug\FirstVersion.csproj.CoreCompileInputs.cache
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\obj\Debug\FirstVersion.exe
+H:\329191_25\Шик Наталия 3 курс\РПМ\Курсовая\FirstVersion\obj\Debug\FirstVersion.pdb
+C:\Users\shikn\Desktop\FirstVersion\bin\Debug\FrequencyAnalysis.exe.config
+C:\Users\shikn\Desktop\FirstVersion\bin\Debug\FrequencyAnalysis.exe
+C:\Users\shikn\Desktop\FirstVersion\bin\Debug\FrequencyAnalysis.pdb
+C:\Users\shikn\Desktop\FirstVersion\obj\Debug\FrequencyAnalysis.exe
+C:\Users\shikn\Desktop\FirstVersion\obj\Debug\FrequencyAnalysis.pdb
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\FirstVersion\bin\Debug\FrequencyAnalysis.exe.config
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\FirstVersion\bin\Debug\FrequencyAnalysis.exe
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\FirstVersion\bin\Debug\FrequencyAnalysis.pdb
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\FirstVersion\obj\Debug\FirstVersion.csprojAssemblyReference.cache
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\FirstVersion\obj\Debug\FirstVersion.InformationForm.resources
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\FirstVersion\obj\Debug\FirstVersion.MainForm.resources
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\FirstVersion\obj\Debug\FirstVersion.Properties.Resources.resources
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\FirstVersion\obj\Debug\FirstVersion.csproj.GenerateResource.cache
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\FirstVersion\obj\Debug\FirstVersion.csproj.CoreCompileInputs.cache
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\FirstVersion\obj\Debug\FrequencyAnalysis.exe
+H:\Шик Наталия 3 курс\РПМ\Работа над курсовым проектом\FirstVersion\obj\Debug\FrequencyAnalysis.pdb
